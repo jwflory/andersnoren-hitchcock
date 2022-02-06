@@ -1191,7 +1191,7 @@ input[type="button"],
 /* Post Inner -------------------------------- */
 
 .post-inner {
-	width: 520px;
+	width: auto;
 	max-width: 85%;
 	margin: 0 auto;
 	padding: 80px 0 90px;
